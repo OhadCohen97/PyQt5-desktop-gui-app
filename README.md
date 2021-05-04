@@ -5,5 +5,4 @@ Simple Record Maintainer System programmed with QT Designer and SQLite3
 
 <img width="734" alt="image" src="https://user-images.githubusercontent.com/70580812/117006831-944b7100-acf1-11eb-96cf-04e4daad12cb.png">
 
-<img width="734" alt="example" src="https://user-images.githubusercontent.com/70580812/117006773-8138a100-acf1-11eb-8805-ae662e6f01a3.png">
 
